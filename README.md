@@ -1,4 +1,4 @@
-# ProyectoBatatabit
-Proyectos desarrollado como practica de HTML y CSS 
-El sitio web es estático
+## Proyecto Batatabit
+Proyecto de sitio web estático desarrollado como practica en HTML y CSS 
+
 
